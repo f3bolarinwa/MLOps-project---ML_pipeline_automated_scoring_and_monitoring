@@ -62,7 +62,7 @@ generates a confusion matrix plot
 
 > python app.py
 
-5) Call API endpoints by running:
+5)Call API endpoints by running:
 
 > python apicalls.py
 
