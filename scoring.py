@@ -1,5 +1,5 @@
 '''
-This script scores a trained ML model using testdata.
+This script scores a trained ML model.
 Writes the score (f1-score) to a text file. 
 
 Author: Femi Bolarinwa

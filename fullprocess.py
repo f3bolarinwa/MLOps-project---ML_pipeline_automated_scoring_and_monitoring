@@ -77,6 +77,7 @@ if temp:
 #runs diagnostics.py and reporting.py for the re-deployed model
         os.system('python diagnostics.py')
 
+        os.system('python reporting.py') 
+
         os.system('python apicalls.py') 
         
-        os.system('python reporting.py') 
