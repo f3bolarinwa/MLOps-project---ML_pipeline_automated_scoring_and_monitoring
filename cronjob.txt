@@ -1,0 +1,1 @@
+*/10 * * * * python /Users/femibolarinwa_comp/Downloads/Udacity/MLOps Engineer/4-ML Model Scoring and Monitoring/starter-file 2/fullprocess.py
