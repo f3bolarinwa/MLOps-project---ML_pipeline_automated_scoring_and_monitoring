@@ -48,7 +48,7 @@ generates a confusion matrix plot
 
 ## Running Files
 
-1) Clone git repository to local machine
+1)Clone git repository to local machine
 
 2)Install dependencies by running command:
 
