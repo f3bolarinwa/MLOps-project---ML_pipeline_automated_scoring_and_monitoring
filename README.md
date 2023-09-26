@@ -1,4 +1,4 @@
-# Project: Automating ML Model Pipeline
+# Project: Automating ML Model Pipeline Scoring and Monitoring
 
 A program requirement for Machine Learning DevOps Engineer Nanodegree @ Udacity School of Artificial Intelligence
 
