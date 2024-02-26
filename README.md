@@ -1,7 +1,5 @@
 # Project: Automating ML Model Pipeline Scoring and Monitoring
 
-A program requirement for Machine Learning DevOps Engineer Nanodegree @ Udacity School of Artificial Intelligence
-
 ## Project Description
 
 In this project, I built a dynamic risk assessment system to predict client attrition for a company. I created a system for continuous data ingestion, model scoring and drift assessment, model re-training and re-deployment. I ensured continuous model monitoring and reporting with API, ML diagnostics for latency, dependency, data integrity and stability issues. I automated the entire ML pipeline using Cronjob to ensure minimal manual intervention.
